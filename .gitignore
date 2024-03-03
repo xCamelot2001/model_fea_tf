@@ -1,0 +1,8 @@
+/FER2013
+*.h5
+/.ipynb_checkpoints
+/env
+/.vscode
+/KDEF_and_AKDEF
+/opencv-4.x
+/RAF
